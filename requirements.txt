@@ -6,3 +6,5 @@ transformers>=4.40.0
 huggingface_hub>=0.20.0
 accelerate>=0.28.0
 ipykernel>=7.2.0
+requests>=2.34.2
+cairosvg>=2.9.0
