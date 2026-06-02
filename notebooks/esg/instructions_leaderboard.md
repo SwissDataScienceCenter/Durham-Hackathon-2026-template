@@ -73,7 +73,7 @@ Caption: ...
 
 ## Submission
 
-Upload your report (text file + image if separate) here: **[LINK]**
+Upload your report (text file + image if separate) here: **[\[LINK\]](https://polybox.ethz.ch/index.php/s/8HJKtNjFK7sbjmR)**
 
 Deadline for each update will be announced in the main hackathon channel.
 
