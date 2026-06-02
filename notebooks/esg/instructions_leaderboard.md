@@ -16,15 +16,15 @@ A short progress report answering three questions, plus one visual artifact. The
 
 **Q1 — What have you built or discovered so far?**
 Describe concretely what you have implemented, computed, or found. Mention specific tools, models, or datasets you have used or processed. Avoid vague claims — if you ran an experiment, state what it showed.
-*(~150–250 words)*
+*(~50–150 words)*
 
 **Q2 — What is your core claim or insight?**
 State the most interesting or surprising result, pattern, or idea your project has produced so far. This could be a quantitative finding, a qualitative observation, an unexpected failure that changed your direction, or a sharp hypothesis you are now testing. If you have no result yet, state the most concrete thing you have learned.
-*(~100–200 words)*
+*(~50–150 words)*
 
 **Q3 — What is your plan for the next phase, and what is your biggest open risk?**
 Describe what you will do next and what could go wrong or block you. Be specific about the risk — "we don't know if X will work because Y" is more useful than "we hope to finish on time."
-*(~100–150 words)*
+*(~50–150 words)*
 
 ---
 
@@ -44,30 +44,7 @@ Add a caption of 1–2 sentences explaining what it shows and why it matters.
 
 ## Format
 
-Use the following template. Plain text or Markdown are both fine. Name your file:
-
-```
-TeamName_Update1.md   (or _Update2, _Final)
-```
-
-```
-# Team [name] — Progress report, Update [1 / 2 / Final]
-Members: ...
-Date: ...
-
-## Q1 — What have you built or discovered so far?
-...
-
-## Q2 — What is your core claim or insight?
-...
-
-## Q3 — What is your plan and biggest open risk?
-...
-
-## Visual artifact
-[attach figure / table / screenshot]
-Caption: ...
-```
+Use the `docx` file that find in the folder. Also add there the visual artifact. 
 
 ---
 
